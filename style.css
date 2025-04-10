@@ -1,0 +1,191 @@
+body { 
+    margin: 0px auto;/*Расстояние от края элемента до края окна браузера*/
+    font-family: Roboto, sans-serif; /*Устанавливает семейство шрифта*/
+}
+.contaner{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: #007765;
+    height: 84px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+.nav-contaner{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.text-item{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.text-item-border{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    border-right: 2px solid #fff;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.Piper{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 84px;
+    padding-top: 100px;
+    color: #fff;
+}
+.celecion{
+    background: url(piper.png) center no-repeat;
+    background-size: cover;
+    margin-left:auto;
+    margin-right: auto;
+    padding-top: 0.5px;;
+    width: 100%;
+    height: 403px;
+}
+.theproblem{
+    text-align: center;
+    color: #007765;
+    font-size: 64px;
+}
+.desc{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 16px;
+    height: 488px;
+    font-size: 32px;
+    line-height: 37.5px;
+    padding-left: 55px;
+    padding-right: 55px;
+    text-align: justify;
+}
+.contaner_2{
+    background-color: #eee;
+    height: 719px;
+    padding-top: 0.1px;
+}
+.contaner_3{
+    background: url(image.png) center no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.1px;
+    width: 100%;
+    height: 483px;
+}
+.desc_1{
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+    line-height: 15px;
+    padding-top: 105px;
+}
+.contaner_4{
+    background-color: #fff;
+    width: 100%;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.1px;
+}
+.desc_2{
+    font-size: 32px;
+    height: 110px;
+    width: 930;
+    padding-left: 160px;
+    margin-top: -145px;
+}
+.desc_3{
+    font-size: 32px;
+    height: 223px;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.block{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55PX;
+}
+.contaner_5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 176px;
+    background-color: #333333;
+    padding-top: 0.1px;
+}
+.end{
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+.anchor {
+    height: 84px;
+    margin-top: -84px;
+}
+
+.The_team{
+    padding-top: 0.1px;
+    height: 845px; 
+    background-color: #eee;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.teamer{
+    width: 350px;
+    height: 283px;
+}
+.text_name{
+    color: #007765;
+    font-size: 24px;
+    text-align: center;
+
+}
+.text_prof{
+    text-align: center;
+    font-size: 18px;
+    margin-top: -20px;
+}
+.team_photo{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+.team_photo1{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+}
+.grupp{
+    padding-bottom: 20px;
+}
